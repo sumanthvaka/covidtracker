@@ -1,21 +1,25 @@
 {
   "files": {
-    "main.css": "/covidtracker/static/css/main.8e224203.chunk.css",
-    "main.js": "/covidtracker/static/js/main.d4a1666f.chunk.js",
-    "main.js.map": "/covidtracker/static/js/main.d4a1666f.chunk.js.map",
+    "main.css": "/covidtracker/static/css/main.3378b38a.chunk.css",
+    "main.js": "/covidtracker/static/js/main.d5c3046b.chunk.js",
+    "main.js.map": "/covidtracker/static/js/main.d5c3046b.chunk.js.map",
     "runtime-main.js": "/covidtracker/static/js/runtime-main.09cab292.js",
     "runtime-main.js.map": "/covidtracker/static/js/runtime-main.09cab292.js.map",
     "static/css/2.ad986fc4.chunk.css": "/covidtracker/static/css/2.ad986fc4.chunk.css",
-    "static/js/2.b2aaf650.chunk.js": "/covidtracker/static/js/2.b2aaf650.chunk.js",
-    "static/js/2.b2aaf650.chunk.js.map": "/covidtracker/static/js/2.b2aaf650.chunk.js.map",
+    "static/js/2.714cacf5.chunk.js": "/covidtracker/static/js/2.714cacf5.chunk.js",
+    "static/js/2.714cacf5.chunk.js.map": "/covidtracker/static/js/2.714cacf5.chunk.js.map",
     "index.html": "/covidtracker/index.html",
-    "precache-manifest.7fc62db9216b251200186dcc59bf7c2c.js": "/covidtracker/precache-manifest.7fc62db9216b251200186dcc59bf7c2c.js",
+    "precache-manifest.c375c99aecdfcaf39221978167c90aa3.js": "/covidtracker/precache-manifest.c375c99aecdfcaf39221978167c90aa3.js",
     "service-worker.js": "/covidtracker/service-worker.js",
     "static/css/2.ad986fc4.chunk.css.map": "/covidtracker/static/css/2.ad986fc4.chunk.css.map",
-    "static/css/main.8e224203.chunk.css.map": "/covidtracker/static/css/main.8e224203.chunk.css.map",
-    "static/js/2.b2aaf650.chunk.js.LICENSE.txt": "/covidtracker/static/js/2.b2aaf650.chunk.js.LICENSE.txt",
+    "static/css/main.3378b38a.chunk.css.map": "/covidtracker/static/css/main.3378b38a.chunk.css.map",
+    "static/js/2.714cacf5.chunk.js.LICENSE.txt": "/covidtracker/static/js/2.714cacf5.chunk.js.LICENSE.txt",
     "static/media/Bar.png": "/covidtracker/static/media/Bar.56312a37.png",
     "static/media/CovidGif.gif": "/covidtracker/static/media/CovidGif.e75b7930.gif",
+    "static/media/Covidmask.gif": "/covidtracker/static/media/Covidmask.26555a00.gif",
+    "static/media/Handsanitizer.gif": "/covidtracker/static/media/Handsanitizer.25bd201b.gif",
+    "static/media/INDflag.png": "/covidtracker/static/media/INDflag.e7de06ed.png",
+    "static/media/Socialdistance.gif": "/covidtracker/static/media/Socialdistance.0dcb8563.gif",
     "static/media/StayHomeStaySafe.gif": "/covidtracker/static/media/StayHomeStaySafe.ba8b905e.gif",
     "static/media/globe.png": "/covidtracker/static/media/globe.bc03486b.png",
     "static/media/light_cough.gif": "/covidtracker/static/media/light_cough.03a257ec.gif",
@@ -25,8 +29,8 @@
   "entrypoints": [
     "static/js/runtime-main.09cab292.js",
     "static/css/2.ad986fc4.chunk.css",
-    "static/js/2.b2aaf650.chunk.js",
-    "static/css/main.8e224203.chunk.css",
-    "static/js/main.d4a1666f.chunk.js"
+    "static/js/2.714cacf5.chunk.js",
+    "static/css/main.3378b38a.chunk.css",
+    "static/js/main.d5c3046b.chunk.js"
   ]
 }

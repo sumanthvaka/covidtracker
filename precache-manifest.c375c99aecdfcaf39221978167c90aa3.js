@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "9e932eff3b22991947878a3752862545",
+    "revision": "51f141b2809091c9e17e3fed8e70e120",
     "url": "/covidtracker/index.html"
   },
   {
-    "revision": "fc8cd290a76e4320e448",
+    "revision": "8564f3e1322ee9583e97",
     "url": "/covidtracker/static/css/2.ad986fc4.chunk.css"
   },
   {
-    "revision": "2540db95ee848935e8ff",
-    "url": "/covidtracker/static/css/main.8e224203.chunk.css"
+    "revision": "22b6ea53f1914243f007",
+    "url": "/covidtracker/static/css/main.3378b38a.chunk.css"
   },
   {
-    "revision": "fc8cd290a76e4320e448",
-    "url": "/covidtracker/static/js/2.b2aaf650.chunk.js"
+    "revision": "8564f3e1322ee9583e97",
+    "url": "/covidtracker/static/js/2.714cacf5.chunk.js"
   },
   {
     "revision": "5e9b6f5c16b720e8a86875f97734673e",
-    "url": "/covidtracker/static/js/2.b2aaf650.chunk.js.LICENSE.txt"
+    "url": "/covidtracker/static/js/2.714cacf5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2540db95ee848935e8ff",
-    "url": "/covidtracker/static/js/main.d4a1666f.chunk.js"
+    "revision": "22b6ea53f1914243f007",
+    "url": "/covidtracker/static/js/main.d5c3046b.chunk.js"
   },
   {
     "revision": "de413a1930c6a774ec79",
@@ -34,6 +34,22 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "e75b7930038e58b98cdcc735fc351f0e",
     "url": "/covidtracker/static/media/CovidGif.e75b7930.gif"
+  },
+  {
+    "revision": "26555a007da6db9cbde7b16236edc380",
+    "url": "/covidtracker/static/media/Covidmask.26555a00.gif"
+  },
+  {
+    "revision": "25bd201bcd7b2e80ea953da799a115ad",
+    "url": "/covidtracker/static/media/Handsanitizer.25bd201b.gif"
+  },
+  {
+    "revision": "e7de06ed6ae094c50357c78ecc337323",
+    "url": "/covidtracker/static/media/INDflag.e7de06ed.png"
+  },
+  {
+    "revision": "0dcb85634f1212736502c0eac2367124",
+    "url": "/covidtracker/static/media/Socialdistance.0dcb8563.gif"
   },
   {
     "revision": "ba8b905e46c822fd3e983126d580c688",
